@@ -1,0 +1,103 @@
+ @import url("https://fonts.googleapis.com/css2?family=Lalezar&display=swap");
+ @import url("https://fonts.googleapis.com/css2?family=Tajawal:wght@300;700&display=swap");
+
+
+
+
+
+
+
+body {
+  font-family: "tajawal" , sans-serif ;
+    font-size: 15pt;
+    background-image: url(yy.jpg);
+    background-size : cover ;
+  background-position : center ;
+  background-repeat : on-repeat ;
+  background-attachment : fixed;
+  height: 100vh ;
+  width: auto ;
+  text-align: center ;
+  margin-top: 30px
+    
+    
+}
+.q {
+  color: white;
+  text-align: center;
+  margin: 10px;
+  padding: 10px;
+  bo5rder: 1px solid wheat;
+  b5order-radius: 10px ;
+  backgr3ound-color: firebrick ;
+  line-height: 30px ;
+  text-shadow: 0px 0px 10px orange
+  
+}
+.q h2 {
+  background-color: red ;
+  border-radius: 15px 15px 0px 0px ;
+  margin: 0px ;
+  padding: 10px ;
+
+}
+
+.q h4 {
+    border-radius: 15px;
+    margin: 0px;
+    padding: 10px;
+    border: 1px solid white ;
+    border-radius: 0px 0px 15px 15px
+}
+.ww {
+  display: block ; 
+  flex-direction: row ;
+  pa5dding: 38px;
+  m5argin: 10px ;
+  justify-content: center ;
+  align-items: center ;
+  justi5fy-items: center ;
+  margin-left: auto ;
+  margin-right: auto ;
+  li5ne-height: 130px ;
+  
+  
+}
+.ww img {
+  
+  width: 70%;
+  justify-content: center;
+  align-content: center ;
+  align-items: center;
+  
+  ;display: block;
+  flex-direction: row;
+  margin-left: auto;
+  margin-right: auto
+  
+}
+
+.ww5 a im5g:hover {
+  width: 102%; 
+margin: 0px;
+text-align: center
+}
+
+.ww a img:hover {
+  border: 3px salmon ;
+  
+  background-color: white ;
+  border-radius: 50px ;
+  margin-top: 0px ;
+transi5tion: background 0.5s linear;
+transition: all 0.5s cubic-bezier(.48,-0.28,.41,1.4);
+width: 75% ;
+
+}
+
+
+.www {
+  margin-top: 20px ;
+  line-height: 30px
+}
+  
